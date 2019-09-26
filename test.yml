@@ -5,3 +5,5 @@ spring:
         git:
           uri: https://github.com/achuanxiang/firstCloud-config.git
           search-paths: firstCloud-config
+label:
+  develop
