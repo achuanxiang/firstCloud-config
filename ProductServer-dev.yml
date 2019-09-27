@@ -6,3 +6,5 @@ eureka:
     hostname: localhost
 serverName:
   product-server
+car:
+  dazhong
