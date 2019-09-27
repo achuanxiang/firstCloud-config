@@ -5,6 +5,4 @@ eureka:
   instance:
     hostname: localhost
 serverName:
-  product-server
-car:
-  dazhong
+  ProductServer
