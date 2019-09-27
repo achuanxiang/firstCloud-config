@@ -5,4 +5,4 @@ eureka:
   instance:
     hostname: localhost
 serverName:
-  Product-server
+  Product-Server
