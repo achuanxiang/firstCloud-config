@@ -8,4 +8,4 @@ eureka:
     register-with-eureka: true
   instance:
     hostname: localhost
-userName: zhangsan
+serverName: zhangsan
