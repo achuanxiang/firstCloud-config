@@ -7,5 +7,4 @@ server:
       defaultZone: http://localhost:8761/eureka/
   instance:
     hostname: localhost
-user:
-  name: lisi
+userName: lisi
