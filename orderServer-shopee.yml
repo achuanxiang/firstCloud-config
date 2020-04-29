@@ -1,6 +1,6 @@
 server:
   port: 8081
- eureka:
+eureka:
   client:
     fetch-registry: true
     service-url:
